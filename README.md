@@ -11,7 +11,7 @@
 - Tenho conhecimento também em Maker (no-code), atuei durante um ano na PRODEB – Companhia de Processamento de Dados do Estado da Bahia com desenvolvimento web no time de sustentação com as linguagens PHP, JavaScipt e C# com banco de dados SQL Server.
 - Busco uma vaga no mercado como analista de sistemas jr.
 
-## Ferramentas e tecnologias: 
+## Tech Stack: 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
