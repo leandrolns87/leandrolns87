@@ -18,14 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50px" width="50px"/>
 </div>
 
-## Contato / Redes Sociais 
+## Contatos/Redes Sociais: 
 <a href="https://wa.me/+5571988019899" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href = "mailto:leandro.lns.87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leandro-nascimento-de-santana-pina-65985825/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 Tel 71 98801-9899
 
 ## Meus Stats: 
-
 <div align="center">
   <a href="https://github.com/leandrolns87">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolns87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
