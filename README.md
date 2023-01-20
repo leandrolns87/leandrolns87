@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/leandro-nascimento-de-santana-pina-65985825/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 Tel 71 98801-9899
 
-## Meus Stats: 
+## Stats: 
 <div align="center">
   <a href="https://github.com/leandrolns87">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolns87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
