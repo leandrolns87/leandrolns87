@@ -1,4 +1,4 @@
-# SEJA BEM VINDO AO MEU GITHUB
+# SEJA BEM-VINDO AO MEU GITHUB
 
 ## Sobre mim: 🎉
 
