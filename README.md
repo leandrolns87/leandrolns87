@@ -1,13 +1,12 @@
 ### Olá, sou Leandro Santana
 
-<!--
-**leandrolns87/leandrolns87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ferramentas e Tecnologias:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50px" width="50px"/>
+</div>
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-          
 Atualmente estou estudando JavaScript e C#, tenho experiência nas linguagens de programação PHP, C# com banco de dados SQL Server. Conheço também Maker (no-code), atuei durante um ano na PRODEB – Companhia de Processamento de Dados do Estado da Bahia com desenvolvimento web no time de sustentação.
 
 Busco uma vaga no mercado como analista de sistemas jr.
@@ -19,6 +18,4 @@ Tel 71 98801-9899
 
 <div>
 <a href="https://github.com/leandrolns87/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
