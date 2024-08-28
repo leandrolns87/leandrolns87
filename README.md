@@ -2,7 +2,7 @@
 
 ## Sobre mim: 
 
-- 👋 Olá! Eu sou o Leandro Santana e tenho 35 anos de idade
+- 👋 Olá! Eu sou o Leandro Santana e tenho 37 anos de idade
 - 🏙️ Eu moro em Camaçari, BA
 - 📚 Atualmente estou estudando JavaScript e C#
 - 📖 Desenvolvo projetos em PHP, C#, javaScript
