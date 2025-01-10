@@ -4,9 +4,7 @@
 
 - 👋 Olá! Eu sou o Leandro Santana e tenho 37 anos de idade
 - 🏙️ Eu moro em Camaçari, BA
-- 📚 Atualmente estou estudando JavaScript e C#
-- 📖 Desenvolvo projetos em PHP, C#, javaScript
-- 💻 As tecnologias que utilizo são: HTML, CSS, JAVASCRIPT, C#, Maker
+- 📖 Desenvolvo projetos em PHP, C#, JavaScript e Dart
 - 🎈 Estou sempre disposto a aprender
 - Tenho conhecimento também em Maker (no-code), atuei durante um ano na PRODEB – Companhia de Processamento de Dados do Estado da Bahia com desenvolvimento web no time de sustentação com as linguagens PHP, JavaScipt e C# com banco de dados SQL Server.
 - Busco uma vaga no mercado como analista de sistemas jr.
@@ -15,7 +13,11 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
+<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50px" width="50px"/>
 </div>
 
 ## Contatos/Redes Sociais: 
