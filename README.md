@@ -4,7 +4,7 @@
 
 - 👋 Olá! Eu sou o Leandro Santana e tenho 37 anos de idade
 - 🏙️ Eu moro em Camaçari, BA
-- 📖 Desenvolvo projetos em PHP, C#, JavaScript e Dart
+- 📖 Desenvolvo projetos em PHP, C#, JavaScript e Flutter
 - 🎈 Estou sempre disposto a aprender
 - Tenho conhecimento também em Maker (no-code), atuei durante um ano na PRODEB – Companhia de Processamento de Dados do Estado da Bahia com desenvolvimento web no time de sustentação com as linguagens PHP, JavaScipt e C# com banco de dados SQL Server.
 - Busco uma vaga no mercado como analista de sistemas jr.
